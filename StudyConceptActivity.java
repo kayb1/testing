@@ -15,7 +15,7 @@ import android.os.Handler;
 import android.os.Parcelable;
 import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
-import android.text.Html;
+import android.text.Html;dddddddddddddddddddddddddd
 import android.util.SparseIntArray;
 import android.util.TypedValue;
 import android.view.Gravity;
