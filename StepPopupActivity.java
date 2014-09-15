@@ -113,6 +113,9 @@ public class StepPopupActivity extends DialogActivity {
             case Define.STUDY_SENTENCE_PRACTICE:
                 setContentView(R.layout.popup_flow_type2);
                 break;
+		case Define.STUD : {
+
+}
         }
 
         final RelativeLayout mLyStepPopupBg = (RelativeLayout) findViewById(R.id.layoutFlowPopup);
