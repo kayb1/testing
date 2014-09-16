@@ -1,15 +1,3 @@
-import android.content.Intent;
-import android.graphics.Bitmap;
-import android.graphics.Color;
-import android.graphics.Paint;
-import android.graphics.Point;
-import android.graphics.Rect;
-import android.os.Build;
-import android.os.Bundle;
-import android.util.SparseIntArray;
-import android.util.TypedValue;
-import android.view.DragEvent;
-import android.view.MotionEvent;
 import android.view.SoundEffectConstants;
 import android.view.View;
 import android.view.ViewGroup;
