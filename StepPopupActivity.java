@@ -1,7 +1,3 @@
-
-/**
- * 단계 팝업
- */
 public class StepPopupActivity extends DialogActivity {
     private static final String TAG = StepPopupActivity.class.getSimpleName();
 
