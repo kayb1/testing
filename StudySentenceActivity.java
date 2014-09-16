@@ -1,6 +1,3 @@
-import android.annotation.TargetApi;
-import android.content.ClipData;
-import android.content.ClipDescription;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.Color;
