@@ -1,5 +1,4 @@
 
-    public static final int STEP_TYPE3 = 3;
     public static final int STATE_TYPE3_WAIT = 0;
     public static final int STATE_TYPE3_SUB_SHOW = 1;
     public static final int STATE_TYPE3_SUB_START = 2;
