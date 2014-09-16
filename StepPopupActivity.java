@@ -1,15 +1,3 @@
-package com.weaversmind.jrm;
-
-import android.animation.ObjectAnimator;
-import android.animation.PropertyValuesHolder;
-import android.graphics.Paint;
-import com.weaversmind.data.ResManager;
-import com.weaversmind.data.TSCLIntroUnit;
-import com.weaversmind.data.WMAnimation;
-import com.weaversmind.widget.CustomButtonView;
-
-import java.util.ArrayList;
-import java.util.Collections;
 
 /**
  * 단계 팝업
