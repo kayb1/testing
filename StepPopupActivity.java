@@ -14,7 +14,6 @@
 
     private RelativeLayout mLyTitle = null;
     private ImageView mImgTitle = null;
-    private RelativeLayout mLyTxt = null;
     private TextView mTxtSubTitle = null;
     private TextView mTxtTip = null;
 
