@@ -1,12 +1,3 @@
-            {"오늘 배운 개념을 이용해 단계별로 문제를 해결하는 방법을 배워봅시다."},
-            {"학습한 문제해결 방법을 이용해 스스로 문제를 풀어봅시다."}
-    };
-
-    private static final int[] ID_LAYOUT_PATTERN_TITLE = {R.id.layoutPatternTitle1, R.id.layoutPatternTitle2, R.id.layoutPatternTitle3};
-    private static final int[] ID_PATTERN_CONTENT = {R.id.txtPatternContent1, R.id.txtPatternContent2, R.id.txtPatternContent3};
-    private static final int[] ID_PATTERN_CHECK = {R.id.imgPatternCheck1, R.id.imgPatternCheck2, R.id.imgPatternCheck3};
-
-    public static final int STEP_TYPE1 = 1;
     public static final int STATE_TYPE1_WAIT = 0;
     public static final int STATE_TYPE1_FINISH = 1;
 
