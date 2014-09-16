@@ -1,6 +1,3 @@
-public class StepPopupActivity extends DialogActivity {
-    private static final String TAG = StepPopupActivity.class.getSimpleName();
-
     private static final int[] IMG_BG = {R.drawable.sub_intro_bg_1, R.drawable.sub_intro_bg_2,
             R.drawable.sub_intro_bg_3, R.drawable.sub_intro_bg_4};
     private static final int[] IMG_STEP = {R.drawable.sub_intro_title_text_1, R.drawable.sub_intro_title_text_2,
