@@ -15,7 +15,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.view.ViewTreeObserver;
 import android.view.animation.Animation;
-import android.view.animation.AnimationUtils;
 import android.view.animation.BounceInterpolator;
 import android.view.animation.OvershootInterpolator;
 import android.view.animation.ScaleAnimation;
@@ -264,12 +263,16 @@ public class StudySentenceActivity extends StudyBaseActivity {
     protected void onLayoutCompleted() {
         super.onLayoutCompleted();
 
-        showUserOption(false);
-        setGuideAniMode(TextScriptView.MODE_SHOW_NOANI);
+        showUserOption();
+        setGuideAniMode();
         setTextGuide("<font color='#595959'>응용탄탄학습:" + mWordList.get(0).episodeTitle + "</font>");
         showGuideNoAni();
 
         gData.updateStudySlot(Define.STUDY_SENTENCE);
+    }
+
+    public void submitTest() {
+
     }
 
     @Override
