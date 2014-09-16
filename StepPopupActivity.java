@@ -1,11 +1,3 @@
-    public static final int STATE_TYPE1_WAIT = 0;
-    public static final int STATE_TYPE1_FINISH = 1;
-
-    public static final int STEP_TYPE2 = 2;
-    public static final int STATE_TYPE2_WAIT = 0;
-    public static final int STATE_TYPE2_SUB_SHOW = 1;
-    public static final int STATE_TYPE2_SUB_START = 2;
-    public static final int STATE_TYPE2_WAIT2 = 3;
 
     public static final int STEP_TYPE3 = 3;
     public static final int STATE_TYPE3_WAIT = 0;
