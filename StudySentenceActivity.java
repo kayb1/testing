@@ -1,5 +1,3 @@
-import android.animation.TimeInterpolator;
-import android.annotation.SuppressLint;
 import android.annotation.TargetApi;
 import android.content.ClipData;
 import android.content.ClipDescription;
