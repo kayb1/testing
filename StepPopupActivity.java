@@ -1,8 +1,3 @@
-    private static final int[] IMG_BG = {R.drawable.sub_intro_bg_1, R.drawable.sub_intro_bg_2,
-            R.drawable.sub_intro_bg_3, R.drawable.sub_intro_bg_4};
-    private static final int[] IMG_STEP = {R.drawable.sub_intro_title_text_1, R.drawable.sub_intro_title_text_2,
-            R.drawable.sub_intro_title_text_3, R.drawable.sub_intro_title_text_4};
-
     private static final String[][] TXT_STEP = {
             {"실생활 소재를 활용한 재미있는 개념콕콕학습이 시작됩니다."},
             {"오늘 배운 개념을 이용해 문제를 풀어봅시다."},
